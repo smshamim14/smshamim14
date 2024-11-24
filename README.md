@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smshamim14, a passionate full-stack developer!
+- 👋 Hi, I’m MD Shamim Reza, a passionate full-stack developer!
 - 👀 I’m interested in web development & creative problem-solving.
 - 🌱 I’m currently mastering Laravel & API integrations.
 - 💞️ I’m looking to collaborate on innovative projects.      

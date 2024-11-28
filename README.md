@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development & creative problem-solving.
 - 🌱 I’m currently mastering Laravel & API integrations.
 - 💞️ I’m looking to collaborate on innovative projects.      
-- 📫 Reach me at smshamim14@example.com.
+- 📫 Reach me at mdshamimreza559@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I turn ideas into user-friendly web apps!
 
